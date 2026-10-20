@@ -7,6 +7,8 @@ void main() {
         System.out.println("Crianca");
     }else if(idade <= 17){
         System.out.println("Adolescente");
+    }else{
+        System.out.println("Adulto");
     }
 
 }
